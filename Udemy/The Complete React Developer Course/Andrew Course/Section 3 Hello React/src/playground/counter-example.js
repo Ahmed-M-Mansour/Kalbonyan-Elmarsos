@@ -1,5 +1,3 @@
-// osama zinhom saad
-// introduction - ES6
 let count = 0;
 const addOne = () => {
   count++;

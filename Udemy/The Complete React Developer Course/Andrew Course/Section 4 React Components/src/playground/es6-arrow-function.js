@@ -1,4 +1,3 @@
-// React Components - Osama Zinhom
 // function square(x) {
 //   return x * x;
 // };

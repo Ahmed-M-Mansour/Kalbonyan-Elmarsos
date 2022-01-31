@@ -1,4 +1,3 @@
-// React Components - Osama Zinhom
 class IndecisionApp extends React.Component {
   constructor(props) {
     super(props);

@@ -1,5 +1,3 @@
-// React Components - Osama Zinhom
-
 // arguments object - no longer bound with arrow functions
 
 const add = (a, b) => {
