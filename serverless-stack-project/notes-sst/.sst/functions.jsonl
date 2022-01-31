@@ -1,0 +1,6 @@
+{"id":"b7309edb","handler":"src/list.main","runtime":"nodejs12.x","srcPath":".","root":"C:\\Users\\ahmed\\OneDrive\\Desktop\\demo-notes-app-main"}
+{"id":"1035afd0","handler":"src/create.main","runtime":"nodejs12.x","srcPath":".","root":"C:\\Users\\ahmed\\OneDrive\\Desktop\\demo-notes-app-main"}
+{"id":"5e1db801","handler":"src/get.main","runtime":"nodejs12.x","srcPath":".","root":"C:\\Users\\ahmed\\OneDrive\\Desktop\\demo-notes-app-main"}
+{"id":"287f35da","handler":"src/update.main","runtime":"nodejs12.x","srcPath":".","root":"C:\\Users\\ahmed\\OneDrive\\Desktop\\demo-notes-app-main"}
+{"id":"4d4394e4","handler":"src/delete.main","runtime":"nodejs12.x","srcPath":".","root":"C:\\Users\\ahmed\\OneDrive\\Desktop\\demo-notes-app-main"}
+{"id":"07ddf87a","handler":"src/billing.main","runtime":"nodejs12.x","srcPath":".","root":"C:\\Users\\ahmed\\OneDrive\\Desktop\\demo-notes-app-main"}
