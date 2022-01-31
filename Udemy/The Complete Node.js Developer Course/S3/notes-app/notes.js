@@ -1,1 +1,5 @@
-The Complete Node.js Developer Course (3rd Edition)
+const getNotes = function () {
+    return 'Your notes...'
+}
+
+module.exports = getNotes
